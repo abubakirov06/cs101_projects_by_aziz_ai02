@@ -1,0 +1,5 @@
+print("Hi, there!")
+name = input("What's your name?\n")
+major = input("What do you study at college/university?\n")
+hobby = input("What do you like to do the most in your leisure time (hobby)?\n")
+print(f"Hi, {name}! \nYou study {major}. \nYour hobby is {hobby}.")
